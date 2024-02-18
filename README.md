@@ -3,7 +3,7 @@
 
 ## Description
 
-[What does your project do and who is it for?]
+Pilgrim is a chatbot which helps and listens to you to help imporve your mental health.
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ Flutter SDK Version 3.3.0 or greater.
 
 1. Clone this repository:
     ```bash
-    git clone [[invalid URL removed]]([invalid URL removed])
+    git clone https://github.com/Rudra-Garg/Pilgrim-App.git
     ```
 2. Install dependencies:
     ```bash
@@ -27,22 +27,3 @@ Flutter SDK Version 3.3.0 or greater.
     flutter run
     ```
 
-## Features
-
-* [List of features]
-
-## Technologies
-
-* [List of libraries and packages]
-
-## Contributing
-
-[Contribute guidelines]
-
-## License
-
-[Project license]
-
-## Contact
-
-[Contact information]
